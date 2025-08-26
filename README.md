@@ -50,4 +50,4 @@ Menghapus 7:
 ## 👨‍💻 Pengembang
 
 MBAHSINGO22  
-🔗 GitHub
+🔗[ GitHub](https://github.com/MBAHSINGO22)
